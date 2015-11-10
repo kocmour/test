@@ -13,4 +13,10 @@ namespace GitTestApp
             Console.WriteLine("Hallo git");
         }
     }
+
+    public class Foo
+    {
+        
+    }
+
 }
